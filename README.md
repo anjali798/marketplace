@@ -21,7 +21,8 @@
   > ![Customer View](https://i.postimg.cc/CMbN9RbQ/Screenshot-2025-08-22-000219.png) 
  
   *Shopkeeper View: Order & Product Management*
-  > ![Shopkeeper Dashboard](https://i.postimg.cc/2SgLzwDF/Screenshot-2025-08-21-234528.png)
+  > <img width="1671" height="798" alt="Marketplace" src="https://github.com/user-attachments/assets/dc310c97-7b34-4b10-9c86-7766ea6596dd" />
+
   > ![Shopkeeper Dashboard](https://i.postimg.cc/HkMst1qX/Screenshot-2025-08-21-235023.png)
  
 ---
