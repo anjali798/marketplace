@@ -16,7 +16,8 @@
 - **Dynamic Multi-Shop Platform** Customers can search for local shops by pincode, and shopkeepers can register and manage their own digital storefront.
 
   *Customer View: Shop Search & Product Browsing*
-  > ![Customer View](https://i.postimg.cc/Hk633FbW/Screenshot-2025-08-22-000145.png)
+  > ![Customer View](<img width="1600" height="743" alt="marketplace-updated" src="https://github.com/user-attachments/assets/110a79db-04c1-4684-8f0c-30e4b342f1c9" />
+)
   > ![Customer View](https://i.postimg.cc/CMbN9RbQ/Screenshot-2025-08-22-000219.png) 
  
   *Shopkeeper View: Order & Product Management*
